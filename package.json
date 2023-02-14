@@ -1,0 +1,13 @@
+{
+  "name": "xtacy",
+  "version": "1.0.0",
+  "description": "A state and action management library for javascript and compatible with any javascript framework or library",
+  "main": "xtacy.js",
+  "browser": "xtacy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["state", "state management", "xtacy", "library like redux", "library like mobX", "easy state management library", "for react", "for angular", "for vue", "for svelte"],
+  "author": "Jose Daniel Ayala Gutierrez",
+  "license": "ISC"
+}
